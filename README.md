@@ -32,3 +32,6 @@ Visual representations include:
 
 * Accuracy and Loss Graphs: Track model performance across training epochs.
 * Sample Predictions: Display predictions using test images.
+
+## Testing the Model 🧪
+The final model is tested using new images of German traffic signs to evaluate its real-world performance.
